@@ -1,0 +1,1 @@
+default{cvar_disable_alpha=false,cvar_enable=true,cvar_self_alpha=0.65,fade_avoid_combat=true,frame_height_target=18,frame_width=130,frame_width_personal=150,frame_width_target=135,use_blizzard_personal=true}
