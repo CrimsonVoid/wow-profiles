@@ -1,1 +1,12 @@
 JXYkkTmZPKulQyXUKhLMx6fvPc(KyXzKArILuIjxsMLLAcfvgqjZm)8yErzMhq1vuPfusXCPuMP0u2LKHUPKyjjguILwuIfxghDTEZck58Zj)ICtOezwOK8W(xCJBYaqGqP7H9xAstAbmWaJcvKh2)WadmbGIQIaIvuQ5Lys5KAkj4uEjMBQfOuWzKyk5xUcHNFrPyLcbKyM5PG2kewI5wqMfLzYkes(LMCgsW6kLYSlWbml4v7AxpaQf8GjmHfaIjql4DZBEhaIfCbot4cCvGPe2CbkGlPww(LwuM5LUcbKtIPxAQC0rsWTjMfkDMfQiMbBIzCbUEeQAMdRCcMklcSktI5lW1K8i)CQub3YSOufbSUUIkUHdtRabXW9brlCyt)yAUfil28nOzzsWQCzJlhFbcGUpTOssSO0tfyKArGIqYn1I5cW
+
+== Shadow Priest
+SW:P + Vampiric Touch + Devouring Plague
+    #f484d5
+
+SW:P + Vampiric Touch
+    #8a4ac6
+
+== Retribution Paladin
+Judgment
+    #9e5eda
